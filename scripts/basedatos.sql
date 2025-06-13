@@ -1,3 +1,5 @@
+-- My SQL script for NeuroLog application database setup Angel__
+
 -- ================================================================
 -- NEUROLOG APP - SCRIPT COMPLETO DE BASE DE DATOS
 -- ================================================================
