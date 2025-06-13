@@ -1,3 +1,5 @@
+# This workflow is used to run SonarQube analysis on the codebase.
+
 name: Build
 on:
   push:
